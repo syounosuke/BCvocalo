@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "BC Vocalo NFT 2",
   "SYMBOL": "BC Vocalo SBT",
-  "MAX_SUPPLY": 10,
+  "MAX_SUPPLY": 100,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 1000000,
