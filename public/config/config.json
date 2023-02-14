@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 1000,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
-  "GAS_LIMIT": 1000000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/unidentified-contract-rav2vpco7z",
   "SHOW_BACKGROUND": false
